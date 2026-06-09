@@ -1,0 +1,10 @@
+customtkinter
+pillow
+opencv-python
+pandas
+numpy
+keras-facenet
+scikit-learn
+joblib
+mtcnn
+tensorflow
