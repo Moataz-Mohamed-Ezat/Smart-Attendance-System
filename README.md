@@ -5,7 +5,9 @@
 A smart attendance system powered by Machine Learning and Computer Vision techniques. The system automates attendance recording through real-time face recognition while providing an intuitive and modern user interface.
 
 ---
+## Preview
 
+![Smart Attendance System](assets/GUI.png)
 ## 📖 Project Overview
 
 The Smart Attendance System is designed to simplify and automate the attendance process by identifying registered users through facial recognition. The system combines computer vision, machine learning, and a user-friendly interface to provide a practical real-world solution.
